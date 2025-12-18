@@ -2,7 +2,7 @@
 
 .
 
-##Installation
+## Installation
 
 먼저 필요한 라이브러리를 설치하세요.
 
@@ -12,7 +12,7 @@
 
 #python main.py
 
-##Game Description
+## Game Description
 
 Octo Finds the Light는 깊은 심해에 숨어 지내던 작은 문어가
 위에서 비추는 빛을 향해 나아가는 2D 캐주얼 게임입니다.
