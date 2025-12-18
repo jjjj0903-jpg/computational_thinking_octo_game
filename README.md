@@ -1,6 +1,6 @@
 ## computational_thinking_octo_game
 
-.
+![Octo Finds the Light](projects/images/title_screen.png)
 
 ## Installation
 
